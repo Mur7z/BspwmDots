@@ -1,0 +1,29 @@
+[general]
+
+bar_width = 1
+bar_spacing = 1
+
+[input]
+
+
+[output]
+
+
+[color]
+
+gradient = 1
+gradient_count = 8
+gradient_color_1 = '#ff6565'
+gradient_color_2 = '#2cc46c'
+gradient_color_3 = '#ecc46f'
+gradient_color_4 = '#64b9f2'
+gradient_color_5 = '#445158'
+gradient_color_6 = '#d2d2d4'
+gradient_color_7 = '#ffde89' 
+gradient_color_8 = '#ff6e91'
+
+[smoothing]
+
+gravity = 40
+
+
